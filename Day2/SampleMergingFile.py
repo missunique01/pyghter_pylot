@@ -1,1 +1,1 @@
-print("Sample Merger File")
+print("Sample Merging File")
