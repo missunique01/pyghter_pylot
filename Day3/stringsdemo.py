@@ -105,6 +105,6 @@ rev_str = " "
 for i in ex_twelve_string:
     rev_str = i + rev_str
 print("Reversed string is ", rev_str)
-
 #method2
 print(ex_twelve_string[::-1])  # Slicing string startindex & End index not provided so it will from start to end and as we give -1 it will take from ending
+
